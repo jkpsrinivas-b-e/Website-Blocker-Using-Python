@@ -20,3 +20,6 @@ We need to know the following python modules to build the python website blocker
    - It's just blocked
 
 ![Blocked Notification](https://user-images.githubusercontent.com/76250835/103396228-d7e56280-4ae6-11eb-821e-24e6d59b745c.png)
+
+# NOTE:
+### Run the Python as admistrator to get access of complete system
